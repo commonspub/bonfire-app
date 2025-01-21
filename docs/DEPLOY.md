@@ -1,3 +1,10 @@
+<!--
+SPDX-FileCopyrightText: 2025 Bonfire Networks <https://bonfirenetworks.org/contact/>
+
+SPDX-License-Identifier: AGPL-3.0-only
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # Hosting guide
 
 A short guide to running Bonfire in a production environment and setting up a digital space connected to the fediverse.

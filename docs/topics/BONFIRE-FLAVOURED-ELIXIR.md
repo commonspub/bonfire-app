@@ -1,3 +1,10 @@
+<!--
+SPDX-FileCopyrightText: 2025 Bonfire Networks <https://bonfirenetworks.org/contact/>
+
+SPDX-License-Identifier: AGPL-3.0-only
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # Bonfire-flavoured Elixir
 
 Bonfire has a few libraries that are widely used in the codebase and make writing Elixir feel a little bit different. To help you get less confused by this, here's a guide on what we can call "bonfire-flavoured elixir"!
